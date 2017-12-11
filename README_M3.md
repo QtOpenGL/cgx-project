@@ -59,8 +59,13 @@ Our scene controller always states which Tile is at the center. This way, the Ti
 
 
 **Julien Harbulot**
+
 - 33% Fog, GrassFog, integrate grass in Terrain (LargeScene)
+
 **Leandro Kieliger**
+
 - 34% Sky variations, Clouds, Yacht
+
 **Isaac Leimgruber**
+
 - 32% Bezier Curve, Grass (instancing), GrassMap
